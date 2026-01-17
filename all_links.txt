@@ -1,0 +1,1 @@
+['#home', '#about', '#tools', '#projects', '#contact', 'https://github.com/ngisaiah', 'https://linkedin.com/in/isaiahng11', 'https://x.com/devzay_', 'https://github.com/ngisaiah/quick_tick', 'https://quick-tick-neon.vercel.app/']
